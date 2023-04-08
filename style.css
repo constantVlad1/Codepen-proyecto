@@ -1,0 +1,82 @@
+body {
+    background-color:rgb(25, 25, 25);
+    margin:30px;
+    font-style:italic;
+    font-size:20px;
+    color:rgb(232, 232, 232);
+    
+  }
+  h1 {
+    text-align:center;
+    font-size:50px;
+  }
+  
+  h2 {
+    color:rgb(49, 167, 178);
+    font-size:30px ;
+    text-align:center;
+    margin-top:60px;
+    margin-bottom:60px;
+    clear:both;
+  }
+  
+  li{
+    margin-bottom:15px;
+  }
+  .left{
+    float:left;
+    margin-right:29px;
+    border:2px double rgb(49, 167, 178);
+  }
+  
+  .right{
+    float:right;
+    margin-left:15px;
+    border:2px double rgb(49, 167, 178);}
+  
+  p {
+    width:85%;
+  }
+  
+  .href:link, .href:visited {
+    color:rgb(49, 167, 178);
+    padding-left:5px;
+    padding-right:5px;
+  }
+  
+  .href:hover {
+    color:black;
+    background-color:rgb(49, 167, 178);
+    padding-left:5px;
+    padding-right:5px;
+  }
+  
+  .history{
+    float:right;
+    width:100px;
+    margin-top:-295px;
+    margin-right:32px;
+    padding:40px;
+    background-color:rgb(41, 134, 142);
+  }
+  
+  .learn{
+    float:right;
+    width:100px;
+    margin-top:115px;
+    margin-right:32px;
+    padding:40px;
+    background-color:rgb(41, 134, 142);
+  }
+  
+  .readMore:link, .readMore:visited{
+    color:black;
+  }
+  .readMore:hover{
+    color:white;
+  }
+  
+  #composition{
+    margin-right:300px;
+  }
+  
